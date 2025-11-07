@@ -168,6 +168,7 @@ st.markdown("""
         box-shadow: 0 8px 25px rgba(240, 147, 251, 0.3);
         height: auto;
         min-height: 200px;
+        margin-bottom:15px;
     }
     
     .feature-box h1 {
